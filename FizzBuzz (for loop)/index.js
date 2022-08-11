@@ -1,17 +1,19 @@
+output = []
+
 function fizzbuzz(a){
 
-    for (i = a; i > 0; i--){
+    for (i = 1; i <= a; i++){
         if(i % 3 == 0 && i % 5 == 0)
-        console.log("Fizzbuzz")
+        output.push("Fizzbuzz")
         else if (i % 3 == 0)
-        console.log("Fizz")
+        output.push("Fizz")
         else if (i % 5 == 0)
-        console.log("Buzz")
+        output.push("Buzz")
         else
-        console.log(i)
+        output.push(i)
     }
     
-    console.log(i)
+    console.log(output)
 
 }
 
