@@ -1,0 +1,1 @@
+Fibonacci challenge is an array of sequence where the first and second number are added to each other to create another number and the next number is added to the number before and then it follows that sequence

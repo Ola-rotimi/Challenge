@@ -1,0 +1,1 @@
+99 bottles is created using a while loop where the number is decremented till it gets to 0

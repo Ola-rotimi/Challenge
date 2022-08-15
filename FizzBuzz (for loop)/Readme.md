@@ -1,0 +1,1 @@
+FizzBuzz is a challenge where, the multiples of 3 are to return Fizz, multiples of 5 are to return Buzz and the multiples of 3 and 5 are to return FizzBuzz
