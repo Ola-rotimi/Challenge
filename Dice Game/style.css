@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+*{
+    font-family: 'DynaPuff', cursive;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #112B3C;
+    color: #F66B0E;
+}
+
+h1{
+    font-size: 100px;
+}
+
+.container{
+    background-color: #EFEFEF;
+    width: 1200px;
+    margin: 0 auto;
+    max-width: 90%;
+    min-height: auto;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.dice p{
+    padding: 20px;
+}
+
+.genDice{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+    padding: 50px;
+}
+
+footer{
+    background-color: #205375;
+    min-height: 62px;
+}
+
+body p{
+    font-family: cursive;
+}
